@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="280" viewBox="0 0 1180 280" role="img" aria-label="Six interdisciplinary fields: security, systems, intelligent systems, networks, computation, and interfaces">
+<defs><linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1119"/><stop offset="1" stop-color="#121b26"/></linearGradient></defs>
+<rect width="1180" height="280" rx="8" fill="url(#base)"/>
+<g transform="translate(13 19)">
+<rect width="366" height="113" rx="8" fill="#141c27" stroke="#35414b"/>
+<path d="M0 8V105" stroke="#b1a085" stroke-width="3" stroke-opacity=".64"/>
+<rect x="19" y="18" width="72" height="76" rx="5" fill="#1b2632" stroke="#344351"/>
+<g transform="translate(28 30)" stroke="#c9b79b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M24 3 39 9v14c0 12-6 18-15 23C15 41 9 35 9 23V9z"/><path d="m17 23 5 5 10-11"/></g>
+<text x="108" y="51" fill="#e7e9e8" font-size="19" font-family="Arial" font-weight="600">Security &amp; trust</text>
+<text x="108" y="77" fill="#91a1ae" font-size="13" font-family="Arial">Failure modes · verification</text>
+</g><g transform="translate(403 19)">
+<rect width="366" height="113" rx="8" fill="#141c27" stroke="#35414b"/>
+<path d="M0 8V105" stroke="#b1a085" stroke-width="3" stroke-opacity=".64"/>
+<rect x="19" y="18" width="72" height="76" rx="5" fill="#1b2632" stroke="#344351"/>
+<g transform="translate(28 30)" stroke="#c9b79b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="7" y="7" width="34" height="34" rx="3"/><path d="M16 17h16v14H16zM24 2v5M24 41v5M2 24h5M41 24h5"/></g>
+<text x="108" y="51" fill="#e7e9e8" font-size="19" font-family="Arial" font-weight="600">Systems &amp; infrastructure</text>
+<text x="108" y="77" fill="#91a1ae" font-size="13" font-family="Arial">Runtime · architecture</text>
+</g><g transform="translate(793 19)">
+<rect width="366" height="113" rx="8" fill="#141c27" stroke="#35414b"/>
+<path d="M0 8V105" stroke="#b1a085" stroke-width="3" stroke-opacity=".64"/>
+<rect x="19" y="18" width="72" height="76" rx="5" fill="#1b2632" stroke="#344351"/>
+<g transform="translate(28 30)" stroke="#c9b79b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="24" cy="24" r="7"/><path d="M24 3v14M24 31v14M3 24h14M31 24h14M9 9l10 10M29 29l10 10M39 9 29 19M19 29 9 39"/></g>
+<text x="108" y="51" fill="#e7e9e8" font-size="19" font-family="Arial" font-weight="600">Intelligent systems</text>
+<text x="108" y="77" fill="#91a1ae" font-size="13" font-family="Arial">Models · evaluation</text>
+</g><g transform="translate(13 144)">
+<rect width="366" height="113" rx="8" fill="#141c27" stroke="#35414b"/>
+<path d="M0 8V105" stroke="#b1a085" stroke-width="3" stroke-opacity=".64"/>
+<rect x="19" y="18" width="72" height="76" rx="5" fill="#1b2632" stroke="#344351"/>
+<g transform="translate(28 30)" stroke="#c9b79b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="9" cy="24" r="5"/><circle cx="25" cy="10" r="5"/><circle cx="39" cy="25" r="5"/><circle cx="25" cy="41" r="5"/><path d="m13 21 8-8M29 13l7 8M36 29l-8 9M21 38l-8-11"/></g>
+<text x="108" y="51" fill="#e7e9e8" font-size="19" font-family="Arial" font-weight="600">Networks &amp; protocols</text>
+<text x="108" y="77" fill="#91a1ae" font-size="13" font-family="Arial">Distributed coordination</text>
+</g><g transform="translate(403 144)">
+<rect width="366" height="113" rx="8" fill="#141c27" stroke="#35414b"/>
+<path d="M0 8V105" stroke="#b1a085" stroke-width="3" stroke-opacity=".64"/>
+<rect x="19" y="18" width="72" height="76" rx="5" fill="#1b2632" stroke="#344351"/>
+<g transform="translate(28 30)" stroke="#c9b79b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="13" y="13" width="22" height="22" rx="2"/><path d="M21 21h6v6h-6zM18 3v10M30 3v10M18 35v10M30 35v10M3 18h10M3 30h10M35 18h10M35 30h10"/></g>
+<text x="108" y="51" fill="#e7e9e8" font-size="19" font-family="Arial" font-weight="600">Computation &amp; hardware</text>
+<text x="108" y="77" fill="#91a1ae" font-size="13" font-family="Arial">Performance · constraints</text>
+</g><g transform="translate(793 144)">
+<rect width="366" height="113" rx="8" fill="#141c27" stroke="#35414b"/>
+<path d="M0 8V105" stroke="#b1a085" stroke-width="3" stroke-opacity=".64"/>
+<rect x="19" y="18" width="72" height="76" rx="5" fill="#1b2632" stroke="#344351"/>
+<g transform="translate(28 30)" stroke="#c9b79b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="4" y="8" width="40" height="30" rx="3"/><path d="M4 17h40M18 38v7M30 38v7M12 45h24M12 25h10M12 31h17"/></g>
+<text x="108" y="51" fill="#e7e9e8" font-size="19" font-family="Arial" font-weight="600">Human-machine interfaces</text>
+<text x="108" y="77" fill="#91a1ae" font-size="13" font-family="Arial">Interaction · emerging media</text>
+</g></svg>

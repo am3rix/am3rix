@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="310" viewBox="0 0 1180 310" role="img" aria-label="Featured case study: Binance hot-wallet incident, October 2026, evidence reconstruction and EIP-7702">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111a25"/><stop offset=".6" stop-color="#16202d"/><stop offset="1" stop-color="#0b121b"/></linearGradient>
+<linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0d49d"/><stop offset="1" stop-color="#706344"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#667985" stroke-opacity=".13" stroke-width="1" fill="none"/></pattern>
+</defs>
+<rect width="1180" height="310" rx="9" fill="url(#bg)" stroke="#415160"/>
+<rect width="1180" height="310" rx="9" fill="url(#grid)"/>
+<path d="M787 0V310" stroke="#51606d" stroke-opacity=".36"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="47" y="58" font-size="15" fill="#c9b48f" letter-spacing="2.7">SELECTED CASE STUDY</text>
+<text x="46" y="124" font-size="42" font-weight="700" fill="#eef0ed">Binance hot-wallet</text><text x="46" y="172" font-size="42" font-weight="700" fill="#eef0ed">incident</text>
+<text x="48" y="215" font-size="19" fill="#a4b5bf">EIP-7702 · transaction evidence · forensic reconstruction</text>
+<text x="48" y="267" font-size="15" fill="#c6b08d" letter-spacing=".9">READ THE RESEARCH   →</text>
+</g>
+<g fill="none" stroke="url(#ring)" opacity=".65"><circle cx="987" cy="154" r="108" stroke-width="1.7"/><circle cx="987" cy="154" r="78" stroke-width=".9" stroke-dasharray="5 9"/><path d="M868 154H1106M987 35V273" stroke-width="1"/></g>
+<g transform="translate(987 154)" fill="url(#ring)"><path d="M0-62 22-40 0-18-22-40Z"/><path d="M-62 0-40-22-18 0-40 22Z"/><path d="M62 0 40-22 18 0 40 22Z"/><path d="M0 62 22 40 0 18-22 40Z"/><path d="M0-31 31 0 0 31-31 0Z"/></g>
+<g fill="#9eabb7" font-family="monospace" font-size="12"><text x="812" y="42">ETHEREUM</text><text x="1036" y="285">OCT 2026</text></g>
+</svg>

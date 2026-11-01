@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Original faceless technical investigator in black and silver layered hood, transparent background">
+<defs>
+<linearGradient id="hood" x1=".08" y1=".04" x2=".95" y2=".95"><stop stop-color="#58626b"/><stop offset=".22" stop-color="#222e3a"/><stop offset=".51" stop-color="#0d151f"/><stop offset=".8" stop-color="#29343c"/><stop offset="1" stop-color="#09121c"/></linearGradient>
+<linearGradient id="hoodedge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d6dbdc"/><stop offset=".18" stop-color="#7c8b92"/><stop offset=".38" stop-color="#1f2e3a"/><stop offset="1" stop-color="#92a0a4"/></linearGradient>
+<linearGradient id="visor" x1=".1" y1=".05" x2=".85" y2="1"><stop stop-color="#647985"/><stop offset=".18" stop-color="#273543"/><stop offset=".53" stop-color="#0a111a"/><stop offset=".78" stop-color="#0f1b25"/><stop offset="1" stop-color="#657580"/></linearGradient>
+<linearGradient id="chrome" x1="0" y1=".2" x2="1" y2=".78"><stop stop-color="#f3f1e8"/><stop offset=".22" stop-color="#a4afb1"/><stop offset=".53" stop-color="#3b505e"/><stop offset=".8" stop-color="#c6ced0"/><stop offset="1" stop-color="#748592"/></linearGradient>
+<linearGradient id="cape" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#34424f"/><stop offset=".48" stop-color="#17232e"/><stop offset=".75" stop-color="#0c151d"/><stop offset="1" stop-color="#2c3945"/></linearGradient>
+<linearGradient id="collar" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9ca8a8"/><stop offset=".2" stop-color="#384954"/><stop offset=".6" stop-color="#101b27"/><stop offset="1" stop-color="#73818b"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1d6a3"/><stop offset=".3" stop-color="#c1a475"/><stop offset=".75" stop-color="#66533a"/><stop offset="1" stop-color="#dbc4a0"/></linearGradient>
+<filter id="softshadow" x="-.3" y="-.3" width="1.6" height="1.6"><feGaussianBlur stdDeviation="11"/></filter>
+</defs>
+<!-- no background rectangle: fully transparent outside the figure -->
+<g transform="translate(0,6)">
+<!-- coat outer silhouette -->
+<path d="M163 899 Q195 796 279 750 Q332 717 380 698 L390 661 Q334 628 321 532 L302 446 Q294 284 391 203 Q469 139 567 159 Q695 159 752 290 Q799 400 759 545 L708 641 L695 716 Q805 752 851 827 Q877 872 890 935 L134 935Z" fill="url(#cape)" stroke="#7b8c97" stroke-width="7" stroke-linejoin="round"/>
+<path d="M157 930 Q217 777 343 743 L438 757 L332 938Z" fill="#0d1720" opacity=".96"/>
+<path d="M884 935 Q821 770 707 728 L625 750 L709 935Z" fill="#0e1924"/>
+<path d="M178 912 L301 761 Q332 737 373 715 L412 744 L286 930" fill="none" stroke="#697a85" stroke-width="10" opacity=".55"/>
+<path d="M722 730 Q837 781 875 918" fill="none" stroke="#abb4b8" stroke-width="8" opacity=".48"/>
+<!-- hood and raised collar structure -->
+<path d="M284 485 Q282 277 423 183 Q500 133 584 165 Q726 177 766 344 Q793 470 726 633 L673 712 Q646 679 647 612 L366 614 Q355 680 405 730 Q308 668 284 485Z" fill="url(#hood)" stroke="url(#hoodedge)" stroke-width="13" stroke-linejoin="round"/>
+<path d="M316 457 Q305 314 408 222 Q496 155 582 192 Q706 204 740 345" fill="none" stroke="#c3cdd0" stroke-width="12" opacity=".38" stroke-linecap="round"/>
+<path d="M349 397 Q367 274 451 237 Q560 179 647 257 Q706 311 707 418 Q731 531 644 652 L391 650 Q333 555 349 397Z" fill="#080f18" stroke="#5b6a74" stroke-width="8"/>
+<!-- layered hood lips -->
+<path d="M325 442 L369 354 Q426 248 522 220 Q628 223 694 316 L715 397 L671 351 Q617 260 513 266 Q409 289 374 398 L365 458Z" fill="url(#hood)" stroke="#b0b9ba" stroke-opacity=".56" stroke-width="7"/>
+<!-- mask silhouette -->
+<path d="M387 418 Q423 329 522 307 Q642 300 674 405 L659 535 Q627 630 538 660 Q456 645 417 584Z" fill="url(#visor)" stroke="#98a8ae" stroke-width="9"/>
+<path d="M411 418 Q448 366 522 356 Q617 344 659 413 L648 493 Q601 520 509 515 Q438 508 408 483Z" fill="#060d14" stroke="#263846" stroke-width="4"/>
+<!-- glass diagonal metallic plate and gleam -->
+<path d="M409 431 Q489 393 653 403 L653 445 Q512 421 418 459Z" fill="#445765" opacity=".4"/>
+<path d="M426 416 Q518 377 631 398" stroke="#f0efe7" stroke-width="6" opacity=".83" fill="none" stroke-linecap="round"/>
+<path d="M434 429 Q493 408 558 405" stroke="#b5c4c7" stroke-width="3" opacity=".45" fill="none"/>
+<!-- inset two abstract optic indicators, no eyes -->
+<path d="M466 462 L519 446 L548 458 L510 475Z" fill="#a9b5bb" opacity=".65"/>
+<path d="M567 452 L625 439 L631 456 L588 465Z" fill="#aab8c1" opacity=".56"/>
+<path d="M485 461 L517 453" stroke="#e2e3dd" stroke-width="3" opacity=".8"/>
+<!-- lower integrated mask -->
+<path d="M417 511 Q515 544 645 502 L632 556 L563 607 L476 593 L430 553Z" fill="#1e2d38" stroke="#697e89" stroke-width="4"/>
+<path d="M453 549 L548 563 L609 539" fill="none" stroke="#85959b" stroke-width="3" opacity=".5"/>
+<path d="M506 588 L561 593" stroke="#dabf8c" stroke-width="5" opacity=".75"/>
+<path d="M476 593 L538 627 L590 598" stroke="#061019" stroke-width="12" fill="none"/>
+<!-- temple hardware -->
+<path d="M370 437 L399 456 L406 542 L383 548 L366 496Z" fill="url(#collar)" stroke="#929b9d" stroke-width="5"/>
+<path d="M666 415 L685 416 L691 517 L661 538 L653 516Z" fill="url(#collar)" stroke="#647885" stroke-width="4"/>
+<rect x="361" y="470" width="22" height="45" rx="6" fill="#b9ac90"/>
+<path d="M672 445 V500" stroke="#c9bc9f" stroke-width="6"/>
+<!-- tall twin collars -->
+<path d="M339 636 Q364 650 410 684 L537 785 L430 840 Q371 802 322 734Z" fill="url(#collar)" stroke="#8c9aa2" stroke-width="9"/>
+<path d="M702 623 Q681 658 641 689 L522 783 L637 838 Q705 787 734 699Z" fill="url(#collar)" stroke="#96a5a8" stroke-width="9"/>
+<path d="M364 682 L480 794 L429 816 L348 730Z" fill="#121d27"/>
+<path d="M699 672 L557 787 L636 813 L707 705Z" fill="#121b23"/>
+<path d="M434 843 L515 779 L607 836 L566 933 L447 933Z" fill="#101a24" stroke="#566979" stroke-width="6"/>
+<!-- subtle chest modular frame -->
+<path d="M448 849 L518 828 L587 851" fill="none" stroke="#a9b6bc" stroke-width="6" opacity=".7"/>
+<path d="M488 883 L547 883 L533 903 L502 903Z" fill="url(#metal)" opacity=".9"/>
+<path d="M503 906H530" stroke="#d7caab" stroke-width="4" opacity=".7"/>
+<!-- segmented left shoulder -->
+<path d="M174 899 Q222 819 309 769 L338 787 L271 935 L150 935Z" fill="#23313e" stroke="#647781" stroke-width="7"/>
+<path d="M202 869 L295 794 M185 908 L267 848" fill="none" stroke="#e0dfd4" stroke-width="5" opacity=".25"/>
+<!-- right shoulder beveled hardware -->
+<path d="M731 768 Q830 812 858 914 L832 935 L714 935 L674 817Z" fill="#1b2834" stroke="#8d9ca1" stroke-width="8"/>
+<path d="M725 797 Q794 827 829 910" fill="none" stroke="#bbaca0" stroke-width="5" opacity=".76"/>
+<path d="M753 838 L802 876" stroke="#d7dee0" stroke-width="4" opacity=".44"/>
+<!-- small insignia, geometric no text -->
+<path d="M673 849 L686 861 L673 873 L661 861Z" fill="none" stroke="#d8c7a6" stroke-width="4"/>
+<!-- cut clean hem edge -->
+<path d="M137 936 H890" stroke="#7f8b90" stroke-width="7" opacity=".45"/>
+</g>
+</svg>
